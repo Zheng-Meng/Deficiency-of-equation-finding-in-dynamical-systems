@@ -32,11 +32,11 @@ An example comparing Koopman modes for the Lorenz system is shown below.
 If you have any questions or suggestions, feel free to reach out.
 
 # Cite our work
-
+```
 @article{zhai2025deficiency,
   title={Deficiency of equation-finding approach to data-driven modeling of dynamical systems},
   author={Zhai, Zheng-Meng and Lucarini, Valerio and Lai, Ying-Cheng},
   journal={arXiv preprint arXiv:2509.03769},
   year={2025}
 }
-
+```
