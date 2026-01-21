@@ -1,2 +1,3 @@
-# Deficiency-of-equation-finding-in-dynamical-systems
-Code for "Deficiency of equation-finding approach to data-driven modeling of dynamical systems"
+<h1 align="center">Deficiency of equation-finding approach to data-driven modeling of dynamical systems</h1>
+
+This repo is for our preprint [Deficiency of equation-finding approach to data-driven modeling of dynamical systems](https://arxiv.org/abs/2509.03769), where sparse optimization methods can return many different equations from equally plausible measurements of chaotic systems, yet these equations generate virtually identical chaotic attractors, and agree on dominant Koopman spectral features. This nonuniqueness means that "recovered" equations may look interpretable but can be misleading, especially for tasks requiring reliable extrapolation. 
